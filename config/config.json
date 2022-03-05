@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "amgcbxon",
+    "password": "EfJ60fSyxQe-kSd6D4KKmvzeCpMI_XA6",
+    "database": "amgcbxon",
+    "host": "jelani.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
